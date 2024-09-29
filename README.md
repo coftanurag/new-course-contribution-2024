@@ -63,7 +63,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
              <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
-                    <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Anurag Gupta"/>
+                    <img src="https://avatars.githubusercontent.com/u/183258153?v=4" width="100px;" alt="Anurag Gupta"/>
                     <br />
                     <sub><b>Anurag Gupta</b></sub>
                 </a>
