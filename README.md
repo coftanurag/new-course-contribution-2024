@@ -62,10 +62,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
              <td align="center">
-                <a href="https://hsrah00.github.io/Harsh/">
-                    <img src="https://avatars.githubusercontent.com/u/183258153?v=4" width="100px;" alt="Anurag Gupta"/>
+                <a href="https://github.com/Simranks184">
+                    <img src="https://avatars.githubusercontent.com/u/183787956?s=400&v=4" width="100px;" alt="simranjit kaur"/>
                     <br />
-                    <sub><b>Anurag Gupta</b></sub>
+                    <sub><b>simranjit kaur</b></sub>
                 </a>
             </td>
         </tr>
