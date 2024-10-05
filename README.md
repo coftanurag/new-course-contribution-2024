@@ -68,6 +68,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Anurag Gupta</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Gunpreet08">
+                    <img src="https://avatars.githubusercontent.com/u/144036673?v=4" width="100px;" alt="Gunpreet Kaur"/>
+                    <br />
+                    <sub><b>Gunpreet kaur</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
