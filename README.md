@@ -8,7 +8,7 @@
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=v2X51AVgl3o">
-        <img src="https://img.youtube.com/vi/v2X51AVgl3o/0.jpg"/>
+        <img src="https://img.youtube.com/vi/v2X51AVgl3o/0.jpg"/> 
     </a>
 </p>
 
@@ -49,9 +49,9 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         <tr>
             <td align="center">
                 <a href="https://alisolanki.com/">
-                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
+                    <img src=https://github.com/ width="100px;" alt="Ali Solanki"/>
                     <br />
-                    <sub><b>Ali Solanki</b></sub>
+                    <sub><b>Anurag gupta</b></sub>
                 </a> 
             </td>
             <td align="center">
