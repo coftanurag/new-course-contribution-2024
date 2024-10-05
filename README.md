@@ -75,6 +75,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Gunpreet kaur</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/rai918">
+                    <img src="https://avatars.githubusercontent.com/u/183456546?v=4" width="100px;" alt="Pratibha"/>
+                    <br />
+                    <sub><b>Pratibha</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
