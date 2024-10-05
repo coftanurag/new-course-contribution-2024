@@ -60,12 +60,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Harsh Pandey</b></sub>
                 </a>
-            </td>
+</td>            
              <td align="center">
-                <a href="https://hsrah00.github.io/Harsh/">
-                    <img src="https://avatars.githubusercontent.com/u/183258153?v=4" width="100px;" alt="Anurag Gupta"/>
+                <a href="https://github.com/Kamakshi2004">
+                    <img src="https://avatars.githubusercontent.com/u/182472655?v=4" width="100px;" alt="Kamakshi"/>
                     <br />
-                    <sub><b>Anurag Gupta</b></sub>
+                    <sub><b>Kamakshi</b></sub>
                 </a>
             </td>
         </tr>
